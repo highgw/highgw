@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Geon Woo Yi (mute_bear)
+# 👋 Hi, I'm Geon Woo Yi (hie2gw)
 
 ### 🛠 Tech Stack
 

@@ -4,16 +4,12 @@
 
 #### Frontend
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,js,css&perline=3&theme=light)](https://skillicons.dev)
 
 #### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,hibernate,mysql&perline=3&theme=light)](https://skillicons.dev)
 
 #### Infra & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,firebase,git,github,gitlab,postman,figma&perline=4&theme=light)](https://skillicons.dev)
